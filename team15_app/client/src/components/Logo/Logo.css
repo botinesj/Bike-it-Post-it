@@ -1,0 +1,32 @@
+#logoTitles {
+  color: black;
+  font-family: Georgia;
+  font-weight: bolder;
+  font-size: small;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+#logo {
+  display: flex;
+  flex-direction: column;
+  max-width: 75%;
+  max-height: 75%;
+  /* min-width: 100px;
+    min-height: 100px; */
+  margin-inline: 20px;
+  justify-self: center;
+  align-items: center;
+  background-color: white;
+  background-image: url(../../assets/images/logo2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  border-radius: 100%;
+  border-style: outset;
+  border-width: 0.1cm;
+  border-color: grey;
+}

@@ -1,0 +1,15 @@
+#navLogo{
+
+        font-family: Georgia;
+         font-weight: bolder;
+         font-size: small;
+         display: flex;
+         justify-content: flex-start;
+         text-align: center;
+         align-items: center;
+         width: 50px;
+         height: 50px;
+         margin: 20px;
+       
+
+}

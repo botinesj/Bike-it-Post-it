@@ -1,0 +1,34 @@
+li {
+    list-style-type: none;
+    text-align: center;
+
+}
+
+.post-form2 {
+    justify-content: center;
+}
+
+.post-form3 {
+    justify-content: center;
+}
+  
+#modal-title {
+    text-justify: center;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+#createButton{
+    justify-content: right;
+    margin-left: auto; 
+    margin-right: 25px;
+    float: right;
+}
+.searchBar {
+    padding-top: 1%;
+}
+
+.sortFilter {
+    padding-top: 1%;
+}

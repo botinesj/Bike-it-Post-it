@@ -1,0 +1,98 @@
+#container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  min-height: 80vh;
+  color: black;
+  background-image: url("../../assets/images/mountainsBackground.jpeg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.Login {
+  display: flex;
+  border-radius: 20px;
+  padding: 10px;
+  padding-inline: 30px;
+  border-style: solid;
+  border-width: 0.1cm;
+  box-shadow: 0px 0px 0.5px 0px grey;
+  border-color: gray;
+  background-color: whitesmoke;
+  flex-direction: column;
+  color: black;
+  line-height: 1.5;
+  color: rgb(4, 26, 51);
+  font-style: italic;
+}
+#loginButton {
+  margin-top: 20px;
+  margin-inline: 20px;
+  background-color: rgb(209, 209, 209);
+  border-radius: 10px;
+  font-weight: 900;
+  color: black;
+  border-style: solid;
+  border-width: 0.05cm;
+  box-shadow: 0px 0px 0.5px 0px grey;
+  border-color: gray;
+}
+
+#registerButton {
+  margin-top: 20px;
+  margin-inline: 20px;
+  background-color: rgb(0, 209, 209);
+  border-radius: 10px;
+  font-weight: 900;
+  color: black;
+  border-style: solid;
+  border-width: 0.05cm;
+  box-shadow: 0px 0px 0.5px 0px grey;
+  border-color: gray;
+}
+
+.Login-text {
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.Login-text h1 {
+  font-size: 5rem;
+  font-weight: 900;
+  line-height: 1;
+  margin-bottom: 1.5rem;
+  color: rgb(4, 26, 51);
+  text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.1);
+}
+
+.Login-text h1:hover {
+  transform: scale(1.05);
+  translate: translateY(-30px);
+  transition: all 0.5sec ease;
+}
+
+.Login-text p #contrastText {
+  font-size: 1rem;
+  font-weight: bolder;
+  margin-left: 5px;
+  color: red;
+}
+
+.Login-text p {
+  font-size: 1rem;
+  font-weight: bolder;
+  line-height: 0;
+  color: rgb(4, 26, 51);
+  font-style: italic;
+  text-shadow: 0px 0px 0.25px white;
+}
+
+#usernameTaken {
+  color: red
+}
+
+#usernameAvailable {
+  color: greenyellow
+}

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b823578b.css",
+    "main.js": "/static/js/main.30e4b47a.js",
+    "static/js/787.399fecc8.chunk.js": "/static/js/787.399fecc8.chunk.js",
+    "static/media/wheel.gif": "/static/media/wheel.25209e94de1dded12dac.gif",
+    "static/media/mountainsBackground.jpeg": "/static/media/mountainsBackground.ed4afa20416e6fc3940b.jpeg",
+    "static/media/bike1.jpg": "/static/media/bike1.3eef997e3ddef4a03f25.jpg",
+    "index.html": "/index.html",
+    "main.b823578b.css.map": "/static/css/main.b823578b.css.map",
+    "main.30e4b47a.js.map": "/static/js/main.30e4b47a.js.map",
+    "787.399fecc8.chunk.js.map": "/static/js/787.399fecc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b823578b.css",
+    "static/js/main.30e4b47a.js"
+  ]
+}

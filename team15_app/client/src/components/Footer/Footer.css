@@ -1,0 +1,40 @@
+#footer {
+  position: relative;
+  min-width: 100%;
+
+  padding-top: 30px;
+  padding-bottom: 30px;
+  max-height: 30%;
+  min-height: 30%;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+}
+#footerContents {
+  display: flex;
+  flex-direction: row;
+  min-width: 100%;
+  max-width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+#footerTitlesContainer {
+  display: flex;
+  flex-direction: row;
+  min-width: 75%;
+  align-items: center;
+}
+
+#footerTitles {
+  flex: 1;
+  color: white;
+  align-self: center;
+  justify-self: center;
+}
+
+#footerCopyright {
+  color: white;
+}

@@ -1,0 +1,37 @@
+.bike-form1 {
+    justify-content: center;
+}
+
+.bike-form2 {
+    margin-top: 50px;
+}
+
+
+.bike-form3 {
+    margin-top: 5%;
+}
+
+.postGrid{
+    justify-content: center;
+}
+
+#createButton{
+    justify-content: right;
+    margin-left: auto; 
+    margin-right: 25px;
+    float: right;
+}
+
+#modal-title {
+    text-justify: center;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.searchBar {
+    padding-top: 1%;
+}
+
+.saleFilter {
+    padding-top: 1%;
+}
