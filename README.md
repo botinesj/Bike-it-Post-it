@@ -1,8 +1,6 @@
 # Team15
 ## BIKE IT POST IT 
 
-Deployed Site: https://quiet-reaches-77220.herokuapp.com/
-
 - npm install 
 - npm run
 
